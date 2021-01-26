@@ -6,7 +6,14 @@ A JavaScript Mock Date object that can be used to change when "now" is.
 [![Build Status](https://travis-ci.org/boblauer/MockDate.png)](https://travis-ci.org/boblauer/MockDate)
 
 ## Installation ##
+
+__npm__:
+
 `npm install mockdate --save-dev`
+
+__yarn__:
+
+`yarn add -D mockdate`
 
 ## Environment Support ##
 MockDate has been tested in Node, IE9+, Chrome, Firefox, and Opera.
